@@ -8,9 +8,9 @@ Built with:
 * json
 * seeds
 * gitignore
-*js
-*node
-*sql
+* js
+* node
+* sql
 
 Website:
 
