@@ -23,6 +23,6 @@ Caleb Lund
 calebcoylund444@gmail.com
 https://github.com/cclund444
 
-video:
+video: through Insomnia
 
 
