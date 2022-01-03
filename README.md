@@ -23,6 +23,10 @@ Caleb Lund
 calebcoylund444@gmail.com
 https://github.com/cclund444
 
-video: through Insomnia
+video: 
+
+https://watch.screencastify.com/v/obEdhkeea4plOLvhK9PR
+
+through Insomnia
 
 
